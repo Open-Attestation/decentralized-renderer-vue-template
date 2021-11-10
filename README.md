@@ -1,9 +1,11 @@
-### Commands
+# Vue Template
+
+## Commands
 
 - start: `npm run dev`
 - build: `npm run build`
 
-### Development
+## Development
 
 The logic on the template configuration is the same as explained in the [main documentation](https://openattestation.com/docs/advanced/custom-renderer) (even if the document focuses on a react base):
 
